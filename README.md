@@ -1,1 +1,1 @@
-# QA-Fundamentals-and-Manual-Testing
+# QA-Fundamentals-and-Manual-Testing Course Materials
