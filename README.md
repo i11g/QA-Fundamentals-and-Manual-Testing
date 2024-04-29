@@ -1,1 +1,1 @@
-# QA-Fundamentals-and-Manual-Testing Course Materials at SoftUni
+# QA-Fundamentals-and-Manual-Testing Course 
