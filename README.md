@@ -20,12 +20,13 @@ The course is part of SoftUni QA Automation Program and focus on:
 - Skills for executing HTTP requests with Postman
 
 ## Technologies Used
-- Trello,
-- Jira,
-- TestRail,
-- Postman,
-- MySQL,
+- Trello
+- Jira
+- TestRail
+- Postman
+- MySQL
 - Grafana
+- Selenium
 
 ## Acknowledgements
 
